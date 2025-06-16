@@ -1,0 +1,570 @@
+[
+  {
+    "name": "Algeria",
+    "code": "DZ",
+    "states": [
+      {
+        "name": "Algiers",
+        "code": "16",
+        "cities": [
+          "Algiers",
+          "Bab El Oued",
+          "Casbah",
+          "Birtouta",
+          "Zeralda",
+          "Cheraga",
+          "Dely Ibrahim",
+          "El Achour",
+          "Ouled Fayet",
+          "Draria"
+        ]
+      },
+      {
+        "name": "Oran",
+        "code": "31",
+        "cities": [
+          "Oran",
+          "Es Senia",
+          "Bir El Djir",
+          "Hassi Bounif",
+          "Sidi Chami",
+          "Hassi Mefsoukh",
+          "Bethioua",
+          "Boufatis",
+          "Gdyel",
+          "Marsat El Hadjadj"
+        ]
+      },
+      {
+        "name": "Constantine",
+        "code": "25",
+        "cities": [
+          "Constantine",
+          "Ali Mendjeli",
+          "Hamma Bouziane",
+          "Didouche Mourad",
+          "El Khroub",
+          "Ain Abid",
+          "Ouled Rahmoune",
+          "Messaoud Boudjeriou",
+          "Ibn Ziad",
+          "Zighoud Youcef"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "code": "EG",
+    "states": [
+      {
+        "name": "Cairo",
+        "code": "C",
+        "cities": [
+          "Cairo",
+          "Giza",
+          "Shubra El Kheima",
+          "Port Said",
+          "Suez",
+          "Luxor",
+          "al-Mahallah al-Kubra",
+          "Mansoura",
+          "Tanta",
+          "Asyut"
+        ]
+      },
+      {
+        "name": "Alexandria",
+        "code": "ALX",
+        "cities": [
+          "Alexandria",
+          "Damanhur",
+          "Kafr el-Dawwar",
+          "Rashid",
+          "Edku",
+          "Abu Qir",
+          "Idku",
+          "Mahmudiyah",
+          "Sidi Barrani",
+          "Marsa Matruh"
+        ]
+      },
+      {
+        "name": "Giza",
+        "code": "GZ",
+        "cities": [
+          "Giza",
+          "6th of October City",
+          "Sheikh Zayed City",
+          "Badrashin",
+          "Abu Rawash",
+          "Kerdasa",
+          "Ausim",
+          "Saqqara",
+          "Mit Rahina",
+          "Al Badrashein"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "code": "ET",
+    "states": [
+      {
+        "name": "Addis Ababa",
+        "code": "AA",
+        "cities": [
+          "Addis Ababa",
+          "Gulele",
+          "Arada",
+          "Kirkos",
+          "Lideta",
+          "Nifas Silk-Lafto",
+          "Kolfe Keranio",
+          "Akaky Kaliti",
+          "Bole",
+          "Yeka"
+        ]
+      },
+      {
+        "name": "Oromia",
+        "code": "OR",
+        "cities": [
+          "Adama",
+          "Jimma",
+          "Bishoftu",
+          "Shashamane",
+          "Nekemte",
+          "Harar",
+          "Dire Dawa",
+          "Sebeta",
+          "Mojo",
+          "Ziway"
+        ]
+      },
+      {
+        "name": "Amhara",
+        "code": "AM",
+        "cities": [
+          "Bahir Dar",
+          "Gondar",
+          "Dessie",
+          "Debre Markos",
+          "Kombolcha",
+          "Debre Birhan",
+          "Woldia",
+          "Lalibela",
+          "Finote Selam",
+          "Weldiya"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "code": "GH",
+    "states": [
+      {
+        "name": "Greater Accra",
+        "code": "AA",
+        "cities": [
+          "Accra",
+          "Tema",
+          "Madina",
+          "Adenta",
+          "Kasoa",
+          "Teshie",
+          "Nungua",
+          "La",
+          "Osu",
+          "Dansoman"
+        ]
+      },
+      {
+        "name": "Ashanti",
+        "code": "AH",
+        "cities": [
+          "Kumasi",
+          "Obuasi",
+          "Ejisu",
+          "Bekwai",
+          "Mampong",
+          "Konongo",
+          "Offinso",
+          "Agogo",
+          "Tepa",
+          "Juaso"
+        ]
+      },
+      {
+        "name": "Western",
+        "code": "WP",
+        "cities": [
+          "Sekondi-Takoradi",
+          "Tarkwa",
+          "Axim",
+          "Prestea",
+          "Elmina",
+          "Cape Coast",
+          "Winneba",
+          "Dunkwa",
+          "Bogoso",
+          "Elubo"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "code": "KE",
+    "states": [
+      {
+        "name": "Nairobi",
+        "code": "30",
+        "cities": [
+          "Nairobi",
+          "Westlands",
+          "Kasarani",
+          "Embakasi",
+          "Makadara",
+          "Kamukunji",
+          "Starehe",
+          "Langata",
+          "Dagoretti",
+          "Kibra"
+        ]
+      },
+      {
+        "name": "Mombasa",
+        "code": "28",
+        "cities": [
+          "Mombasa",
+          "Likoni",
+          "Changamwe",
+          "Jomba",
+          "Kisauni",
+          "Nyali",
+          "Bamburi",
+          "Shanzu",
+          "Mikindani",
+          "Magongo"
+        ]
+      },
+      {
+        "name": "Central",
+        "code": "11",
+        "cities": [
+          "Nyeri",
+          "Thika",
+          "Murang'a",
+          "Kiambu",
+          "Kirinyaga",
+          "Nyandarua",
+          "Gatundu",
+          "Limuru",
+          "Ruiru",
+          "Kikuyu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "code": "MA",
+    "states": [
+      {
+        "name": "Casablanca-Settat",
+        "code": "06",
+        "cities": [
+          "Casablanca",
+          "Settat",
+          "Berrechid",
+          "Benslimane",
+          "Mohammedia",
+          "El Jadida",
+          "Azemmour",
+          "Sidi Bennour",
+          "Khouribga",
+          "Oued Zem"
+        ]
+      },
+      {
+        "name": "Rabat-Salé-Kénitra",
+        "code": "04",
+        "cities": [
+          "Rabat",
+          "Salé",
+          "Kénitra",
+          "Khemisset",
+          "Sidi Kacem",
+          "Sidi Slimane",
+          "Temara",
+          "Skhirat",
+          "Tiflet",
+          "Rommani"
+        ]
+      },
+      {
+        "name": "Marrakesh-Safi",
+        "code": "07",
+        "cities": [
+          "Marrakesh",
+          "Safi",
+          "Essaouira",
+          "Kelaa des Sraghna",
+          "Youssoufia",
+          "Chichaoua",
+          "Al Haouz",
+          "Rehamna",
+          "Tamanar",
+          "Oulad Teima"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "code": "NG",
+    "states": [
+      {
+        "name": "Lagos",
+        "code": "LA",
+        "cities": [
+          "Lagos",
+          "Ikeja",
+          "Surulere",
+          "Victoria Island",
+          "Ikoyi",
+          "Apapa",
+          "Mushin",
+          "Alimosho",
+          "Agege",
+          "Ifako-Ijaiye"
+        ]
+      },
+      {
+        "name": "Abuja Federal Capital Territory",
+        "code": "FC",
+        "cities": [
+          "Abuja",
+          "Garki",
+          "Wuse",
+          "Maitama",
+          "Asokoro",
+          "Gwarinpa",
+          "Kubwa",
+          "Nyanya",
+          "Karu",
+          "Gwagwalada"
+        ]
+      },
+      {
+        "name": "Kano",
+        "code": "KN",
+        "cities": [
+          "Kano",
+          "Fagge",
+          "Dala",
+          "Gwale",
+          "Tarauni",
+          "Nassarawa",
+          "Ungogo",
+          "Kumbotso",
+          "Warawa",
+          "Kiru"
+        ]
+      },
+      {
+        "name": "Rivers",
+        "code": "RI",
+        "cities": [
+          "Port Harcourt",
+          "Obio-Akpor",
+          "Okrika",
+          "Oyigbo",
+          "Ogu–Bolo",
+          "Eleme",
+          "Tai",
+          "Gokana",
+          "Khana",
+          "Degema"
+        ]
+      },
+      {
+        "name": "Oyo",
+        "code": "OY",
+        "cities": [
+          "Ibadan",
+          "Ogbomoso",
+          "Oyo",
+          "Iseyin",
+          "Iwo",
+          "Shaki",
+          "Igboho",
+          "Eruwa",
+          "Lalupon",
+          "Kishi"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "code": "ZA",
+    "states": [
+      {
+        "name": "Gauteng",
+        "code": "GT",
+        "cities": [
+          "Johannesburg",
+          "Pretoria",
+          "Soweto",
+          "Ekurhuleni",
+          "Benoni",
+          "Boksburg",
+          "Germiston",
+          "Kempton Park",
+          "Brakpan",
+          "Springs"
+        ]
+      },
+      {
+        "name": "Western Cape",
+        "code": "WC",
+        "cities": [
+          "Cape Town",
+          "Stellenbosch",
+          "Paarl",
+          "George",
+          "Worcester",
+          "Mossel Bay",
+          "Hermanus",
+          "Swellendam",
+          "Oudtshoorn",
+          "Caledon"
+        ]
+      },
+      {
+        "name": "KwaZulu-Natal",
+        "code": "KZN",
+        "cities": [
+          "Durban",
+          "Pietermaritzburg",
+          "Newcastle",
+          "Pinetown",
+          "Chatsworth",
+          "Umlazi",
+          "Port Shepstone",
+          "Ladysmith",
+          "Dundee",
+          "Estcourt"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "code": "TZ",
+    "states": [
+      {
+        "name": "Dar es Salaam",
+        "code": "02",
+        "cities": [
+          "Dar es Salaam",
+          "Kinondoni",
+          "Ilala",
+          "Temeke",
+          "Ubungo",
+          "Kigamboni"
+        ]
+      },
+      {
+        "name": "Mwanza",
+        "code": "18",
+        "cities": [
+          "Mwanza",
+          "Ilemela",
+          "Nyamagana",
+          "Sengerema",
+          "Kwimba",
+          "Misungwi",
+          "Magu",
+          "Buchosa",
+          "Bunda",
+          "Serengeti"
+        ]
+      },
+      {
+        "name": "Arusha",
+        "code": "01",
+        "cities": [
+          "Arusha",
+          "Moshi",
+          "Karatu",
+          "Monduli",
+          "Ngorongoro",
+          "Longido",
+          "Siha",
+          "Hai",
+          "Rombo",
+          "Same"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "code": "UG",
+    "states": [
+      {
+        "name": "Central Region",
+        "code": "C",
+        "cities": [
+          "Kampala",
+          "Entebbe",
+          "Mukono",
+          "Jinja",
+          "Masaka",
+          "Mbarara",
+          "Wakiso",
+          "Mpigi",
+          "Luwero",
+          "Rakai"
+        ]
+      },
+      {
+        "name": "Eastern Region",
+        "code": "E",
+        "cities": [
+          "Jinja",
+          "Mbale",
+          "Soroti",
+          "Tororo",
+          "Busia",
+          "Iganga",
+          "Kamuli",
+          "Pallisa",
+          "Kumi",
+          "Kapchorwa"
+        ]
+      },
+      {
+        "name": "Western Region",
+        "code": "W",
+        "cities": [
+          "Mbarara",
+          "Fort Portal",
+          "Kasese",
+          "Kabale",
+          "Rukungiri",
+          "Bushenyi",
+          "Hoima",
+          "Masindi",
+          "Bundibugyo",
+          "Kyenjojo"
+        ]
+      }
+    ]
+  }
+]
